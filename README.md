@@ -13,7 +13,7 @@ Official [Cursor](https://www.cursor.com) themes ported to VS Code with small mo
 
 ## Installation
 
-1. Copy this extension folder to your VS Code extensions directory:
+1. Copy this extension folder to your VS Code extensions directory, and make sure the folder name starts with `local.` (for example: `local.cursor-official-themes-1.0.0`):
    - **macOS/Linux:** `~/.vscode/extensions/`
    - **Windows:** `%USERPROFILE%\.vscode\extensions\`
 2. Restart VS Code or reload the window (`Cmd+Shift+P` / `Ctrl+Shift+P` -> **Developer: Reload Window**).
